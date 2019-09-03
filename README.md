@@ -11,7 +11,7 @@ To have the RC Car move forward and when RC Car detects the Stop Sign within a c
 
 
 # Improvments 
-Training the model to detect certain objects and having the car to turn right or left and creating a RC Car shell to hide the hardware and wiring.  
+Training the model to detect certain objects, having the car to turn right or left and creating a RC Car shell to hide the hardware and wiring.  
 ![IMG_5207](https://user-images.githubusercontent.com/39424972/64137058-cd686b00-cdc3-11e9-9cb4-2d7fe4e4b7bc.PNG)
 
 
